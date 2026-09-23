@@ -1,0 +1,15 @@
+{
+  "name": "GamePlaza Go",
+  "identifier": "com.techmaster2013.gplaza.source",
+  "apps": [
+    {
+      "name": "GamePlaza Go",
+      "bundleIdentifier": "com.techmaster2013.gplaza",
+      "version": "1.0",
+      "versionDate": "2026-09-22",
+      "downloadURL": "https://techmaster2013.github.io/GamePlaza-Go/GamePlaza-Go.ipa",
+      "localizedDescription": "GamePlaza Go — games, tools, and more.",
+      "iconURL": "https://techmaster2013.github.io/GamePlaza/Normal.png"
+    }
+  ]
+}
