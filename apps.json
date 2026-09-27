@@ -4,6 +4,7 @@
   "apps": [
     {
       "name": "GamePlaza Go",
+      "developerName": "techmaster2013",
       "bundleIdentifier": "com.techmaster2013.gplaza",
       "version": "1.0",
       "versionDate": "2026-09-22",
