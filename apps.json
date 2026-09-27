@@ -10,7 +10,8 @@
       "versionDate": "2026-09-22",
       "downloadURL": "https://techmaster2013.github.io/GamePlaza-Go/GamePlaza-Go.ipa",
       "localizedDescription": "GamePlaza Go — games, tools, and more.",
-      "iconURL": "https://techmaster2013.github.io/GamePlaza/Normal.png"
+      "iconURL": "https://techmaster2013.github.io/GamePlaza/Normal.png",
+      "size": 166
     }
   ]
 }
